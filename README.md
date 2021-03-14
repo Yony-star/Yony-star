@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## @Yony-star · iOS Developer · Redmond, WA
+## @Yony-star · iOS Developer · 
 ###### yony.star.dev@gmail.com
 ###### [Personal Website](http://www.yony-start.com/), [LinkedIn](https://www.linkedin.com/in/jgova), [GitHub](https://github.com/Yony-star)
 
@@ -17,11 +17,29 @@ I develop for the iOS platform and have a background in customer service.  My pa
 | Xcode | Node.JS |
 | Swift & Objective-C | JavaScript |
 | REST API, JSON | Design UX/UI |
-| Git / GitHub Source Control | Graphic Design (Pixelmator) |
+| Xamarin & C#| .NET Core |
+| Android Studio | Java |
+| Unity 3D | Game Developing |
+| SQL Server | Data Base Design |
+| Git / GitHub Source Control | Graphic Design (Photoshop, Illustrator, Gimp) |
 
 ### Experience
 ##### iOS Developer | Jan 2012 - present
 
-+ Developing an iOS app with a start up team in Swift.
++ Developing iOS apps with a start up team in Swift.
++ Writing server side code with C# and Node.JS. 
+
+### Experience
+##### Android Developer | Jan 2012 - present
+
++ Developing Android apps with a start up team in Java.
 + Writing server side code with Node.JS. 
+
+### Experience
+##### Games Developer | Jan 2013 - present
+
++ Developing Unity games with C#.
++ Developing iOS games with Objective-C ans Swift.
++ Writing server side code with C# and Node.JS. 
+
 
