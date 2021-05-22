@@ -39,7 +39,7 @@ I develop for the iOS platform and have a background in customer service.  My pa
 ##### Games Developer | Jan 2013 - present
 
 + Developing Unity games with C#.
-+ Developing iOS games with Objective-C ans Swift.
++ Developing iOS games with Objective-C and Swift.
 + Writing server side code with C# and Node.JS. 
 
 
